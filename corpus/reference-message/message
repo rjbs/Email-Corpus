@@ -1,0 +1,9 @@
+From: "Example Sender" <sender@example.com>
+To: "Example Recipient" <recipient@example.com>
+Subject: this is an example message for Email::Corpus
+Message-Id: <78CFC800-C0A0-11DC-B121-7952CE621598@mx.example.com>
+
+This is a body.
+
+-- 
+E. Sender
